@@ -1,0 +1,1 @@
+import{f as t,o as a,c as o,a as s,t as n}from"./entry.NrqYsDyr.js";const c={class:"text-2xl font-extrabold w-10/12"},p=t({__name:"big.heading",props:["title"],setup(e){return(r,i)=>(a(),o("div",c,[s("span",null,n(e.title),1)]))}});export{p as _};
