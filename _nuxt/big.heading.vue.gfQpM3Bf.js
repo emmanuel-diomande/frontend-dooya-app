@@ -1,1 +1,0 @@
-import{B as e,o as a,c as o,a as s,t as n}from"./entry.iA16sMA1.js";const l={class:"lg:text-2xl text-lg font-extrabold w-9/12"},p=e({__name:"big.heading",props:["title"],setup(t){return(c,r)=>(a(),o("div",l,[s("span",null,n(t.title),1)]))}});export{p as _};
